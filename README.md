@@ -1,16 +1,15 @@
-## Hi there 👋
+###  vindas ao meu perfil 💙
 
-<!--
-**3aotavanselmo/3aotavanselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é otavio anselmo 
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https:\\www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📪
+
+00001105948626sp@al.educacao.sp.gov.br
+
+@tavin_zn
+
+![](https://media1.tenor.com/m/3cLzjlrE8UgAAAAC/cachorro-dan%C3%A7ando.gif)
